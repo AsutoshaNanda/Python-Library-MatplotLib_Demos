@@ -51,14 +51,6 @@ The notebooks are structured to provide parallel examples for both libraries, sh
 | **Faceting** | `FacetGrid`, `catplot`, `pairplot` with hue/style/size |
 | **Styling** | Themes (`darkgrid`, `whitegrid`, `ticks`), palettes, context scaling |
 
-### Project Showcases
-
-| Project | Goal | Key Visualisations |
-|---------|------|-------------------|
-| **Project 01 – Coffee Production Analysis** | Explore global coffee production (1990‑2018) | Bar charts, line charts, stacked area, pie charts |
-| **Project 02 – Brazil Coffee Dashboard** | Show Brazil’s rise as coffee leader | GridSpec dashboard with text, pie, stacked plots, custom annotations |
-| **Project 03 – Used‑Car Price EDA** | Analyse factors affecting car resale price | Pair‑plot, heatmap, regression plots, categorical bar/box plots |
-<br>
 <br>
 
 ## Project Showcases
@@ -73,6 +65,15 @@ A dashboard-style visualization created with `GridSpec` that tells the story of 
 
 ### Project 3: Used Car Price Exploration
 An in-depth Exploratory Data Analysis (EDA) of a used car dataset. This project leverages `seaborn`'s statistical plotting capabilities (`pairplot`, `heatmap`, `lmplot`, `barplot`) to investigate the relationships between vehicle attributes like make, condition, and odometer reading, and their final selling price.
+
+<br>
+
+| Project | Goal | Key Visualisations |
+|---------|------|-------------------|
+| **Project 01 – Coffee Production Analysis** | Explore global coffee production (1990‑2018) | Bar charts, line charts, stacked area, pie charts |
+| **Project 02 – Brazil Coffee Dashboard** | Show Brazil’s rise as coffee leader | GridSpec dashboard with text, pie, stacked plots, custom annotations |
+| **Project 03 – Used‑Car Price EDA** | Analyse factors affecting car resale price | Pair‑plot, heatmap, regression plots, categorical bar/box plots |
+<br>
 
 <br>
 
