@@ -1,4 +1,6 @@
 # Matplotlib & Seaborn Visualization Demos
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C9FCC?style=for-the-badge&logo=seaborn&logoColor=white)
 
 
 This repository is a comprehensive collection of Jupyter Notebooks demonstrating a wide range of data visualization techniques using Python's powerful `matplotlib` and `seaborn` libraries. From fundamental plots to intricate, multi-layered dashboards, these examples serve as a practical guide for creating effective and publication-quality visualizations.
